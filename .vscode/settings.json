@@ -1,0 +1,19 @@
+{
+     "editor.cursorSmoothCaretAnimation": "explicit",
+     "editor.cursorStyle": "line-thin",
+     "editor.cursorSurroundingLines": 10,
+     "editor.cursorSurroundingLinesStyle": "all",
+     "editor.fontSize": 40,
+     "editor.formatOnPaste": true,
+     "editor.formatOnType": false,
+     "diffEditor.codeLens": false,
+     "editor.formatOnSaveMode": "modificationsIfAvailable",
+     "diffEditor.diffAlgorithm": "legacy",
+     "editor.minimap.scale": 3,
+     "editor.minimap.showSlider": "always",
+     "editor.minimap.side": "right",
+     "editor.minimap.size": "proportional",
+     "editor.acceptSuggestionOnEnter": "smart",
+     "editor.snippetSuggestions": "top",
+     "editor.suggestFontSize": 40
+}
